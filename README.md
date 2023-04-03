@@ -21,4 +21,4 @@
 
 #
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=g7shxv2jg8f3azkaqf150y7ou)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=g7shxv2jg8f3azkaqf150y7ou&count=1)
