@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👁️👄👁️, I'm Nicanor</h1>
 
-- 🌱 I’m currently learning <strong>Responsive Web Design</strong> 
+- 🌱 I’m currently learning some <strong>Front-End Libraries</strong> 
 - 📫 How to reach me **nenguerra@gmail.com**
 
 - 📄 Know about my <a href="http://example.com/](https://drive.google.com/file/d/1v7lybNsXkoDtylJ7VnNrbuTggRDihxBp/view?usp=share_link" target="_blank">experiences</a>
