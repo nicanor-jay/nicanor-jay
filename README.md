@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning some <strong>Front-End Libraries</strong> 
 - 📫 How to reach me **nenguerra@gmail.com**
 
-- 📄 Know about my <a href="http://example.com/](https://drive.google.com/file/d/1v7lybNsXkoDtylJ7VnNrbuTggRDihxBp/view?usp=share_link" target="_blank">experiences</a>
+- 📄 Know about my <a href="https://nicanor-jay.dev/Nicanor_Enguerra_CV.pdf" target="_blank">experiences</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
