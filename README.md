@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👁️👄👁️, I'm Nicanor</h1>
+<h1 align="center">Hello 👋, I'm Nicanor</h1>
 
 - 🌱 I’m currently learning some <strong>Front-End Libraries</strong> 
 - 📫 How to reach me **nenguerra@gmail.com**
