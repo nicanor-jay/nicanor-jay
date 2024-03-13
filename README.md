@@ -1,4 +1,4 @@
-**[nicanor-jay.dev](https://nicanor-jay.dev/)**
+<a href="https://nicanor-jay.dev/" target="_blank">nicanor-jay.dev</a>
 <br>
 <br>
 🌱 I’m currently learning <strong>Android with Jetpack Compose</strong> 
