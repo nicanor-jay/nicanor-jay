@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Nicanor</h1>
 
-- 🌱 I’m currently learning some <strong>Front-End Libraries</strong> 
+- 🌱 I’m currently learning <strong>Android development with Jetpack Compose</strong> 
 - 📫 How to reach me **nenguerra@gmail.com**
 
 - 📄 Know about my <a href="https://nicanor-jay.dev/Nicanor_Enguerra_CV.pdf" target="_blank">experiences</a>
@@ -19,6 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicanor-jay&" alt="nicanor-jay" /></p>
 
-#
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=g7shxv2jg8f3azkaqf150y7ou&count=3)
